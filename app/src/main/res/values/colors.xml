@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#000000</color> <!-- Light grey background -->
+    <color name="title_text_color">#333333</color> <!-- Dark grey text -->
+    <color name="edit_text_background">#FFFFFF</color> <!-- White background for EditTexts -->
+    <color name="button_background">#4CAF50</color> <!-- Green background for Button -->
+    <color name="button_text_color">#FFFFFF</color> <!-- White text color for Button -->
+    <color name="facebook_blue">#1877F2</color>
+    <color name="facebook_white">#FFFFFF</color>
+    <color name="facebook_button_text">#FFFFFF</color>
+    <color name="text_color">#333333</color>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ERGenerator</string>
+    <string name="enter_database_table">Enter database table</string>
+    <string name="connect_to_database">Connect to Database</string>
+    <string name="enter_api_and_database_details">Enter API and Database Details</string>
+    <string name="logo_description">Logo of the ER Generator application</string>
+</resources>
