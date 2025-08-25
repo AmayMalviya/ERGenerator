@@ -29,7 +29,7 @@ Diagram Rendering: Custom Canvas / Graph libraries (update if you used any speci
 
 Clone this repository:
 
-git clone https://github.com/your-username/er-generator-app.git
+git clone [https://github.com/your-username/er-generator-app.git](https://github.com/AmayMalviya/ERGenerator.git)
 
 
 Open the project in Android Studio.
